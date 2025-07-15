@@ -110,7 +110,7 @@ Business-Oriented Thinking
 
 | Executive Summary | Customer & Product Insights | Regional Performance |
 |-------------------|-----------------------------|----------------------|
-| ![](images/page-1.png) | ![](images/page-2.png) | ![](images/page-3.png) |
+| ![](/superstore-powerbi-project/image/page-1.png) | ![](/superstore-powerbi-project/image/page-2.png) | ![](/superstore-powerbi-project/image/page-3.png) |
 
 ---
 
